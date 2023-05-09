@@ -22,6 +22,7 @@ Python(Seaborn, Matplotlib, Pandas), Tableau, Github
 
 ## TIME PLAN ##
 Wednesday - Friday
+
 Data Cleaning, Exploratory Data Analysis, Python visualisation
 
 Saturday - Sunday
