@@ -16,7 +16,24 @@ Numbers of crimes are connected with every single neighborhood of Berlin's part.
 Python(Seaborn, Matplotlib, Pandas), Tableau, Github
 
 ## GOAL ##
-- Analysing the total number of crimes commited per year in each districts of Berlin
+- Analysing the total number of crimes committed per year in each districts of Berlin
 - Understand the trending patterns of crimes in each district/regions
 - What are the safest and least safest to reside
+
+## TIME PLAN ##
+Wednesday - Friday
+Data Cleaning, Exploratory Data Analysis, Python visualisation
+
+Saturday - Sunday
+Take a rest and reflect on tableau inspirations
+
+Monday - Wednesday
+Solely Tableau
+
+Thursday
+Presentation preparation
+
+Friday (D-Day)
+Presenattions!!!
+
 
