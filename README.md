@@ -19,6 +19,8 @@ Python(Seaborn, Matplotlib, Pandas), Tableau, Github
 - year	- year crime took place
 - district - district crime happened
 - location - location crime occured
+
+
 - robbery - robberies in-house
 - street_robbery - robberies on street
 - injury	- physiscians will determine if its an injury
