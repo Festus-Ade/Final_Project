@@ -1,4 +1,5 @@
-## TOPIC ##: ANALYSING HOW SAFE YOUR NEIGHBOURHOOD IS (CRIMES IN BERLIN, 2012 - 2019)
+## TOPIC ##
+ANALYSING HOW SAFE YOUR NEIGHBOURHOOD IS (CRIMES IN BERLIN, 2012 - 2019)
 ## DATASET ##: Culled from Kaggle (Statistics about crimes from the Commissariat of Berlin)
 
 ## CONTEXT ##
