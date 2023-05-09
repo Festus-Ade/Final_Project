@@ -21,7 +21,7 @@ Python(Seaborn, Matplotlib, Pandas), Tableau, Github
 - Understand the trending patterns of crimes in each district/regions.
 
 ## TIME PLAN ##
-<font size="1"> Wednesday - Friday </font>
+<font size="5"> Wednesday - Friday </font>
 
 Data Cleaning, Exploratory Data Analysis, Python visualisation
 
