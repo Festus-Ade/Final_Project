@@ -25,19 +25,19 @@ Python(Seaborn, Matplotlib, Pandas), Tableau, Github
 
 Data Cleaning, Exploratory Data Analysis, Python visualisation
 
-## Saturday - Sunday
+#### Saturday - Sunday ####
 
 Take a rest and reflect on tableau inspirations
 
-## Monday - Wednesday
+#### Monday - Wednesday ####
 
 Solely Tableau
 
-## Thursday
+#### Thursday ####
 
 Presentation preparation
 
-## Friday (D-Day) 
+#### Friday (D-Day) ####
 
-Presenattions!!!
+Presentations!!!
 
