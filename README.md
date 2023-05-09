@@ -38,7 +38,7 @@ Python(Seaborn, Matplotlib, Pandas), Tableau, Github
 - drugs - drug crimes
 
 ## GOAL ##
-Analysing the total number of crimes commited per year in each districts of Berlin
-Understand the trending patterns of crimes in each district/regions
-What are the safest and least safest to reside
+- Analysing the total number of crimes commited per year in each districts of Berlin
+- Understand the trending patterns of crimes in each district/regions
+- What are the safest and least safest to reside
 
