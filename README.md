@@ -15,28 +15,6 @@ Numbers of crimes are connected with every single neighborhood of Berlin's part.
 ## TOOLS ##
 Python(Seaborn, Matplotlib, Pandas), Tableau, Github
 
-## DESCRIPTION OF THE PROJECT ##
-- year	- year crime took place
-- district - district crime happened
-- location - location crime occured
-
-
-- robbery - robberies in-house
-- street_robbery - robberies on street
-- injury	- physiscians will determine if its an injury
-- aggravated_assault	- physiscians will determine if its an aggravated assault
-- threat	- threat of violence
-- theft	- theft like pickpocketting and shoplifting
-- car	- car theft
-- from_car	- theft from cars
-- bike	- stolen bikes
-- burglary	- stealing from within the house
-- fire	- damage caused by fire
-- arson	- willfull fire
-- damage 
-- graffiti	- graffiti crimes
-- drugs - drug crimes
-
 ## GOAL ##
 - Analysing the total number of crimes commited per year in each districts of Berlin
 - Understand the trending patterns of crimes in each district/regions
