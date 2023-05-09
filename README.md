@@ -26,15 +26,19 @@ Wednesday - Friday
 Data Cleaning, Exploratory Data Analysis, Python visualisation
 
 Saturday - Sunday
+
 Take a rest and reflect on tableau inspirations
 
 Monday - Wednesday
+
 Solely Tableau
 
 Thursday
+
 Presentation preparation
 
 Friday (D-Day)
+
 Presenattions!!!
 
 
