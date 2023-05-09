@@ -16,9 +16,9 @@ Numbers of crimes are connected with every single neighborhood of Berlin's part.
 Python(Seaborn, Matplotlib, Pandas), Tableau, Github
 
 ## DESCRIPTION OF THE PROJECT ##
-year	- year crime took place
-district - district crime happened
-location - location crime occured
+- year	- year crime took place
+- district - district crime happened
+- location - location crime occured
 robbery - robberies in-house
 street_robbery - robberies on street
 injury	- physiscians will determine if its an injury
