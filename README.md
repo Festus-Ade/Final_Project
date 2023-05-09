@@ -1,6 +1,8 @@
 ## TOPIC ##
 ANALYSING HOW SAFE YOUR NEIGHBOURHOOD IS (CRIMES IN BERLIN, 2012 - 2019)
-## DATASET ##: Culled from Kaggle (Statistics about crimes from the Commissariat of Berlin)
+
+## DATASET ##
+Culled from Kaggle (Statistics about crimes from the Commissariat of Berlin)
 
 ## CONTEXT ##
 Berlin is a special city, multicultural and really diverse. So also, the crime image is really special there. Let's try to analysr the trend of crime over 7 years and suggest the safest and least safest areas of the city.
