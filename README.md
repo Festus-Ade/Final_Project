@@ -21,11 +21,11 @@ Python(Seaborn, Matplotlib, Pandas), Tableau, Github
 - What are the safest and least safest to reside
 
 ## TIME PLAN ##
-Wednesday - Friday
+## Wednesday - Friday
 
 Data Cleaning, Exploratory Data Analysis, Python visualisation
 
-Saturday - Sunday
+## Saturday - Sunday
 
 Take a rest and reflect on tableau inspirations
 
