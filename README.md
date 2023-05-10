@@ -19,6 +19,7 @@ Python(Seaborn, Matplotlib, Pandas), Tableau, Github
 - To know the safest and least safest areas to reside.
 - Analyse the total number of crimes committed per year in each districts of Berlin.
 - Understand the trending patterns of crimes in each district/regions.
+- Present the data on an interactive Tableau dashboard using heatmaps, piechart etc
 
 ## TIME PLAN ##
 #### Wednesday - Friday ####
