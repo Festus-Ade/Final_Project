@@ -1,5 +1,5 @@
 ## TOPIC ##
-#### How safe us your neighbourhood? (Crimes in Berlin, 2012 - 2019)
+#### How safe is your neighbourhood? (Crimes in Berlin, 2012 - 2019)
 
 ## DATASET 
 Culled from Kaggle (Statistics about crimes from the Commissariat of Berlin)
@@ -15,9 +15,9 @@ Numbers of crimes are connected with every single neighborhood of Berlin. Statis
 ## TOOLS ##
 Python(Seaborn, Matplotlib, Pandas), Tableau, Github
 
-## GOAL ##
-- What are the safest and least safest areas to reside.
-- Analysing the total number of crimes committed per year in each districts of Berlin.
+## EXPECTED OUTCOME ##
+- To know the safest and least safest areas to reside.
+- Analyse the total number of crimes committed per year in each districts of Berlin.
 - Understand the trending patterns of crimes in each district/regions.
 
 ## TIME PLAN ##
